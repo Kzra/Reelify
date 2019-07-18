@@ -25,7 +25,8 @@ python reelify.py [-t] [-k] [-d] [-f] [-b] [-s]
 ```[-s]```: sample rate (optional, default: 44100). 
 
 **Example**:
-  
+
+ ![Example](https://github.com/Kzra/Reelify/blob/master/Reelify_command_prompt.png)
 
 **Acknowledgements**: Thanks to my friend Henry for his advice on the program design. 
 
