@@ -1,7 +1,7 @@
 # Reelify
 **Summary**: This program is designed to give you the last t seconds of a recording when you press a hotkey. 
 It is useful to capture moments of creativity without having to curate an entire recording, for example during a jam or brainstorming session.
-The program uses Pyaudio to continually stream audio data into a numpy array of fixed size [t * samplerate] which overwrites as it is filled. 
+The program uses Pyaudio to continually stream audio data into a numpy array of fixed size (t * samplerate) which overwrites as it is filled. 
 The array is saved as a .wav file when the hotkey is pressed. 
 
 **Dependencies**: The program is written in Python 3 and requires the following non-standard modules to run: 
